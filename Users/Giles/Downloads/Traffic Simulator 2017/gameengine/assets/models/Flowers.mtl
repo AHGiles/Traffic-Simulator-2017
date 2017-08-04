@@ -1,0 +1,28 @@
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Empty/grass.png
+Ni 1.00
+newmtl vincaYellowLight8FlowerShaderSG
+illum 4
+Kd 0.68 0.52 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Empty/yellow.png
+Ni 1.00
+newmtl vincaYellowLight8LeafShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Empty/leaf.png
+Ni 1.00
+newmtl vincaYellowLight8ShaderSG
+illum 4
+Kd 0.16 0.59 0.23
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Empty/yellow.png
+Ni 1.00

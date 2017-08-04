@@ -1,0 +1,55 @@
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.44 0.44 0.44
+map_Kd Textures/Empty/water.jpg
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Empty/metal.jpg
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Empty/marble.jpg
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Empty/grass.png
+Ni 1.00
+newmtl pasted__colonial46SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Empty/cloth.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 37.40
+newmtl pasted__colonial46SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.71 0.44 0.26
+Tf 1.00 1.00 1.00
+map_Kd Textures/Empty/wood.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 37.40
+newmtl pasted__colonial46SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.98 0.96 0.89
+Tf 1.00 1.00 1.00
+map_Kd Textures/Empty/cloth.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 37.40

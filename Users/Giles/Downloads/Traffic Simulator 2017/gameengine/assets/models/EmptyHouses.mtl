@@ -1,0 +1,127 @@
+newmtl EmptyHouses:exported_houseA_door_glassWindow_002_glassWindow_002SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Houses/metal.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 0.06
+newmtl EmptyHouses:exported_houseA_door_lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Houses/white.jpg
+Ni 1.00
+newmtl EmptyHouses:exported_houseA_lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Houses/red.jpg
+Ni 1.00
+newmtl EmptyHouses:exported_houseC_glassWindow_002_glassWindow_002SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Houses/metal.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 0.06
+newmtl EmptyHouses:exported_houseC_lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Houses/creamRendercolour.jpg
+Ni 1.00
+newmtl EmptyHouses:exported_houseC_lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Houses/stone_buff.jpg
+Ni 1.00
+newmtl EmptyHouses:exported_houseC_lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Houses/brick_old.jpg
+Ni 1.00
+newmtl EmptyHouses:exported_houseC_lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Houses/terracotta.jpg
+Ni 1.00
+newmtl EmptyHouses:exported_houseC_lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Houses/roofTiles.jpg
+Ni 1.00
+newmtl EmptyHouses:exported_houseC_metal_004_metal_004SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Houses/creamRendercolour.jpg
+Ni 1.00
+Ks 1.00 0.87 0.63
+Ns 0.06
+newmtl EmptyHouses:glassWindow_002_glassWindow_002SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Houses/metal.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 0.06
+newmtl EmptyHouses:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Houses/creamRendercolour.jpg
+Ni 1.00
+newmtl EmptyHouses:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Houses/white.jpg
+Ni 1.00
+newmtl EmptyHouses:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Houses/stone_buff.jpg
+Ni 1.00
+newmtl EmptyHouses:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Houses/stone_buff.jpg
+Ni 1.00
+newmtl EmptyHouses:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Houses/creamRendercolour.jpg
+Ni 1.00
+newmtl EmptyHouses:lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Empty/grass.png
+Ni 1.00

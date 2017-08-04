@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\GUI">
+      <UniqueIdentifier>{be9a154b-fe20-44ce-838b-fab21416dad4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Object Loading">
+      <UniqueIdentifier>{2a1b911d-3152-4f90-af7c-5a32a1727e96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Shader">
+      <UniqueIdentifier>{3724e9c3-598b-415e-9b54-2c4ef3d974f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\IO">
+      <UniqueIdentifier>{644da2e7-edf8-4d2c-a96d-8d124c556aaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Shader\Shaders">
+      <UniqueIdentifier>{5b770823-eb74-497f-a866-21d5bc84506f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game Objects">
+      <UniqueIdentifier>{513ed721-d03f-4e71-95e4-f924bd436fe4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game Objects\Primitives">
+      <UniqueIdentifier>{a2e5e9f0-4fa9-40eb-a2a7-83da1bc19ea4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GUI">
+      <UniqueIdentifier>{fe7e59f6-7c2d-43d3-91ac-a2554b191973}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\IO">
+      <UniqueIdentifier>{6aa30e0b-c8ff-4afc-a17a-fdd6a9d70456}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game Objects">
+      <UniqueIdentifier>{0f74ccf2-2430-462c-b0ca-5e9373438f1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shader">
+      <UniqueIdentifier>{1ac3dd8f-dd07-4854-bc9f-3745ad8d4984}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game Objects\Primitives">
+      <UniqueIdentifier>{fafc71a9-fb3e-469c-8337-b311cc007ee0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object Loading">
+      <UniqueIdentifier>{bca16d6b-ca17-4c6f-b997-bf9f1dd99975}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game Objects\Roads">
+      <UniqueIdentifier>{a68142d3-2c41-4f7a-92d4-db17b33c8437}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game Objects\Roads">
+      <UniqueIdentifier>{484c5cef-6b6e-459e-99d9-a3ffd4af2538}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\AStar">
+      <UniqueIdentifier>{7783605d-015f-42b1-b9f6-195af973c792}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\AStar">
+      <UniqueIdentifier>{7b7a6cf2-0b81-4588-a1c4-f4549c8f3a00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MapGen">
+      <UniqueIdentifier>{c8c5b4c0-d027-456a-8822-ccac167b2320}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MapGen">
+      <UniqueIdentifier>{bbb0f7c3-5455-4de1-9eb7-ee2786c3c02b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game Objects\Car">
+      <UniqueIdentifier>{96e5c098-fe15-4e1e-bd41-79a4f9cfe322}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game Objects\Car">
+      <UniqueIdentifier>{3b335cff-9543-44f4-ab57-25d732fc95a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game Objects\World">
+      <UniqueIdentifier>{53b336f2-93a0-4823-bfb8-a54a0a1ce8ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game Objects\World">
+      <UniqueIdentifier>{f89e811a-9ca0-4633-9a69-036970e2f57f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Object Loading\Assimp">
+      <UniqueIdentifier>{14f483b0-f215-42c8-bca2-18e6532d7901}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object Loading\Assimp">
+      <UniqueIdentifier>{2da7eabb-f3a7-43a3-a3c5-397b4177fb83}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GUI\GUI.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="IO\DisplayWindow.cpp">
+      <Filter>Source Files\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectLoading\obj_loader.cpp">
+      <Filter>Source Files\Object Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectLoading\stb_image.c">
+      <Filter>Source Files\Object Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectLoading\Texture.cpp">
+      <Filter>Source Files\Object Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader\Shader.cpp">
+      <Filter>Source Files\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenGLHelper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjects\Roads\TJunc.cpp">
+      <Filter>Source Files\Game Objects\Roads</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjects\Roads\Straight.cpp">
+      <Filter>Source Files\Game Objects\Roads</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjects\Roads\Corner.cpp">
+      <Filter>Source Files\Game Objects\Roads</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjects\Roads\Empty.cpp">
+      <Filter>Source Files\Game Objects\Roads</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjects\Roads\Crossroad.cpp">
+      <Filter>Source Files\Game Objects\Roads</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjects\Roads\RoadDetails.cpp">
+      <Filter>Source Files\Game Objects\Roads</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjects\Roads\Road.cpp">
+      <Filter>Source Files\Game Objects\Roads</Filter>
+    </ClCompile>
+    <ClCompile Include="AStar\AStar.cpp">
+      <Filter>Source Files\AStar</Filter>
+    </ClCompile>
+    <ClCompile Include="MapGen\RoadMapGen.cpp">
+      <Filter>Source Files\MapGen</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjects\Car\Car.cpp">
+      <Filter>Source Files\Game Objects\Car</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjects\World\3DWorld.cpp">
+      <Filter>Source Files\Game Objects\World</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjects\World\2DWorld.cpp">
+      <Filter>Source Files\Game Objects\World</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjects\Camera.cpp">
+      <Filter>Source Files\Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjects\Primitives\Mesh.cpp">
+      <Filter>Source Files\Game Objects\Primitives</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjects\Primitives\Ray.cpp">
+      <Filter>Source Files\Game Objects\Primitives</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI\Button.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectLoading\Assimp\AssimpModel.cpp">
+      <Filter>Source Files\Object Loading\Assimp</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectLoading\Assimp\AssimpTexture.cpp">
+      <Filter>Source Files\Object Loading\Assimp</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectLoading\Assimp\VertexBuffer.cpp">
+      <Filter>Source Files\Object Loading\Assimp</Filter>
+    </ClCompile>
+    <ClCompile Include="gameobjects\ModelLibrary.cpp">
+      <Filter>Source Files\Game Objects</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Shader\Shader.h">
+      <Filter>Header Files\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI\GUI.h">
+      <Filter>Header Files\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="IO\DisplayWindow.h">
+      <Filter>Header Files\IO</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjects\Primitives\Box.h">
+      <Filter>Header Files\Game Objects\Primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjects\Primitives\Ray.h">
+      <Filter>Header Files\Game Objects\Primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjects\Camera.h">
+      <Filter>Header Files\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjects\Transform.h">
+      <Filter>Header Files\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectLoading\obj_loader.h">
+      <Filter>Header Files\Object Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectLoading\stb_image.h">
+      <Filter>Header Files\Object Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectLoading\Texture.h">
+      <Filter>Header Files\Object Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="headers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjects\Roads\Road.h">
+      <Filter>Header Files\Game Objects\Roads</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGLHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjects\Roads\TJunc.h">
+      <Filter>Header Files\Game Objects\Roads</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjects\Roads\Corner.h">
+      <Filter>Header Files\Game Objects\Roads</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjects\Roads\Straight.h">
+      <Filter>Header Files\Game Objects\Roads</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjects\Roads\Empty.h">
+      <Filter>Header Files\Game Objects\Roads</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjects\Roads\Crossroad.h">
+      <Filter>Header Files\Game Objects\Roads</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjects\Roads\RoadDetails.h">
+      <Filter>Header Files\Game Objects\Roads</Filter>
+    </ClInclude>
+    <ClInclude Include="AStar\AStar.h">
+      <Filter>Header Files\AStar</Filter>
+    </ClInclude>
+    <ClInclude Include="AStar\AStarNode.h">
+      <Filter>Header Files\AStar</Filter>
+    </ClInclude>
+    <ClInclude Include="MapGen\RoadMapGen.h">
+      <Filter>Header Files\MapGen</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjects\Car\Car.h">
+      <Filter>Header Files\Game Objects\Car</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjects\World\3DWorld.h">
+      <Filter>Header Files\Game Objects\World</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjects\World\2DWorld.h">
+      <Filter>Header Files\Game Objects\World</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjects\Primitives\Mesh.h">
+      <Filter>Header Files\Game Objects\Primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjects\Primitives\Direction.h">
+      <Filter>Header Files\Game Objects\Primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI\Button.h">
+      <Filter>Header Files\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectLoading\Assimp\AssimpModel.h">
+      <Filter>Header Files\Object Loading\Assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectLoading\Assimp\AssimpTexture.h">
+      <Filter>Header Files\Object Loading\Assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectLoading\Assimp\VertexBuffer.h">
+      <Filter>Header Files\Object Loading\Assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="gameobjects\Primitives\Model.h">
+      <Filter>Header Files\Game Objects\Primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="gameobjects\ModelLibrary.h">
+      <Filter>Header Files\Game Objects</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shader\Shaders\basicTransformations.frag">
+      <Filter>Header Files\Shader\Shaders</Filter>
+    </None>
+    <None Include="Shader\Shaders\basicTransformations.vert">
+      <Filter>Header Files\Shader\Shaders</Filter>
+    </None>
+    <None Include="Shader\Shaders\GUIShader.frag">
+      <Filter>Header Files\Shader\Shaders</Filter>
+    </None>
+    <None Include="Shader\Shaders\GUIShader.vert">
+      <Filter>Header Files\Shader\Shaders</Filter>
+    </None>
+    <None Include="Shader\Shaders\Phong.frag">
+      <Filter>Header Files\Shader\Shaders</Filter>
+    </None>
+    <None Include="Shader\Shaders\Phong.vert">
+      <Filter>Header Files\Shader\Shaders</Filter>
+    </None>
+    <None Include="Shader\Shaders\roadShader.frag">
+      <Filter>Header Files\Shader\Shaders</Filter>
+    </None>
+    <None Include="Shader\Shaders\roadShader.vert">
+      <Filter>Header Files\Shader\Shaders</Filter>
+    </None>
+    <None Include="Shader\Shaders\carShader.frag">
+      <Filter>Header Files\Shader\Shaders</Filter>
+    </None>
+    <None Include="Shader\Shaders\carShader.vert">
+      <Filter>Header Files\Shader\Shaders</Filter>
+    </None>
+    <None Include="Shader\Shaders\heatmapShader.frag">
+      <Filter>Header Files\Shader\Shaders</Filter>
+    </None>
+    <None Include="Shader\Shaders\heatmapShader.vert">
+      <Filter>Header Files\Shader\Shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>

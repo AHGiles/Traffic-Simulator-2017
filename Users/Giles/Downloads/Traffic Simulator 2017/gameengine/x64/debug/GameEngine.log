@@ -1,0 +1,121 @@
+﻿  GameEngine.cpp
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(137): error C2061: syntax error: identifier 'GLint'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(144): error C2061: syntax error: identifier 'GLenum'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(473): error C2059: syntax error: '__cdecl'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(474): error C2059: syntax error: '__cdecl'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(475): error C2065: 'GLushort': undeclared identifier
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(475): error C2146: syntax error: missing ')' before identifier 'id'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(476): error C2059: syntax error: '__cdecl'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(814): error C2061: syntax error: identifier 'GLuint'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(929): error C2065: 'GLuint': undeclared identifier
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(929): error C2146: syntax error: missing ')' before identifier 'group'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(930): error C2061: syntax error: identifier 'GLuint'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(931): error C2061: syntax error: identifier 'GLuint'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(932): error C2061: syntax error: identifier 'GLuint'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(933): error C2061: syntax error: identifier 'GLuint'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(952): error C2065: 'GLsizei': undeclared identifier
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(952): error C2146: syntax error: missing ')' before identifier 'size'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1075): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1075): error C2146: syntax error: missing ';' before identifier '__wglewBindDisplayColorTableEXT'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1076): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1076): error C2146: syntax error: missing ';' before identifier '__wglewCreateDisplayColorTableEXT'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1077): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1077): error C2146: syntax error: missing ';' before identifier '__wglewDestroyDisplayColorTableEXT'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1078): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1078): error C2146: syntax error: missing ';' before identifier '__wglewLoadDisplayColorTableEXT'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1146): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1146): error C2146: syntax error: missing ';' before identifier '__wglewBindSwapBarrierNV'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1153): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1153): error C2146: syntax error: missing ';' before identifier '__wglewAllocateMemoryNV'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1169): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1169): error C2146: syntax error: missing ';' before identifier '__WGLEW_3DFX_multisample'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1170): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1170): error C2146: syntax error: missing ';' before identifier '__WGLEW_3DL_stereo_control'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1171): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1171): error C2146: syntax error: missing ';' before identifier '__WGLEW_AMD_gpu_association'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1172): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1172): error C2146: syntax error: missing ';' before identifier '__WGLEW_ARB_buffer_region'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1173): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1173): error C2146: syntax error: missing ';' before identifier '__WGLEW_ARB_create_context'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1174): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1174): error C2146: syntax error: missing ';' before identifier '__WGLEW_ARB_create_context_profile'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1175): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1175): error C2146: syntax error: missing ';' before identifier '__WGLEW_ARB_extensions_string'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1176): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1176): error C2146: syntax error: missing ';' before identifier '__WGLEW_ARB_framebuffer_sRGB'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1177): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1177): error C2146: syntax error: missing ';' before identifier '__WGLEW_ARB_make_current_read'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1178): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1178): error C2146: syntax error: missing ';' before identifier '__WGLEW_ARB_multisample'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1179): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1179): error C2146: syntax error: missing ';' before identifier '__WGLEW_ARB_pbuffer'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1180): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1180): error C2146: syntax error: missing ';' before identifier '__WGLEW_ARB_pixel_format'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1181): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1181): error C2146: syntax error: missing ';' before identifier '__WGLEW_ARB_pixel_format_float'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1182): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1182): error C2146: syntax error: missing ';' before identifier '__WGLEW_ARB_render_texture'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1183): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1183): error C2146: syntax error: missing ';' before identifier '__WGLEW_ATI_pixel_format_float'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1184): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1184): error C2146: syntax error: missing ';' before identifier '__WGLEW_ATI_render_texture_rectangle'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1185): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1185): error C2146: syntax error: missing ';' before identifier '__WGLEW_EXT_depth_float'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1186): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1186): error C2146: syntax error: missing ';' before identifier '__WGLEW_EXT_display_color_table'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1187): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1187): error C2146: syntax error: missing ';' before identifier '__WGLEW_EXT_extensions_string'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1188): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1188): error C2146: syntax error: missing ';' before identifier '__WGLEW_EXT_framebuffer_sRGB'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1189): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1189): error C2146: syntax error: missing ';' before identifier '__WGLEW_EXT_make_current_read'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1190): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1190): error C2146: syntax error: missing ';' before identifier '__WGLEW_EXT_multisample'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1191): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1191): error C2146: syntax error: missing ';' before identifier '__WGLEW_EXT_pbuffer'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1192): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1192): error C2146: syntax error: missing ';' before identifier '__WGLEW_EXT_pixel_format'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1193): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1193): error C2146: syntax error: missing ';' before identifier '__WGLEW_EXT_pixel_format_packed_float'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1194): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1194): error C2146: syntax error: missing ';' before identifier '__WGLEW_EXT_swap_control'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1195): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1195): error C2146: syntax error: missing ';' before identifier '__WGLEW_I3D_digital_video_control'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1196): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1196): error C2146: syntax error: missing ';' before identifier '__WGLEW_I3D_gamma'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1197): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1197): error C2146: syntax error: missing ';' before identifier '__WGLEW_I3D_genlock'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1198): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1198): error C2146: syntax error: missing ';' before identifier '__WGLEW_I3D_image_buffer'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1199): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1199): error C2146: syntax error: missing ';' before identifier '__WGLEW_I3D_swap_frame_lock'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1200): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1200): error C2146: syntax error: missing ';' before identifier '__WGLEW_I3D_swap_frame_usage'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1201): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1201): error C2146: syntax error: missing ';' before identifier '__WGLEW_NV_copy_image'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1202): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1202): error C2146: syntax error: missing ';' before identifier '__WGLEW_NV_float_buffer'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1203): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1203): error C2146: syntax error: missing ';' before identifier '__WGLEW_NV_gpu_affinity'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1204): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1204): error C2146: syntax error: missing ';' before identifier '__WGLEW_NV_present_video'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1205): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1205): error C2146: syntax error: missing ';' before identifier '__WGLEW_NV_render_depth_texture'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1206): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1206): error C2146: syntax error: missing ';' before identifier '__WGLEW_NV_render_texture_rectangle'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1207): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1207): error C2146: syntax error: missing ';' before identifier '__WGLEW_NV_swap_group'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1208): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1208): error C2146: syntax error: missing ';' before identifier '__WGLEW_NV_vertex_array_range'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1209): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1209): error C2146: syntax error: missing ';' before identifier '__WGLEW_NV_video_output'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1210): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1210): error C2146: syntax error: missing ';' before identifier '__WGLEW_OML_sync_control'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1235): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1235): error C2146: syntax error: missing ';' before identifier 'wglewIsSupported'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1239): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\include\gl\wglew.h(1239): error C2146: syntax error: missing ';' before identifier 'wglewGetExtension'
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\headers.h(4): fatal error C1083: Cannot open include file: 'gl\glew.h': No such file or directory
+  DisplayWindow.cpp
+c:\users\giles\documents\visual studio 2015\projects\gameengine\gameengine\displaywindow.h(5): fatal error C1083: Cannot open include file: 'SDL2\SDL.h': No such file or directory
+  Generating Code...

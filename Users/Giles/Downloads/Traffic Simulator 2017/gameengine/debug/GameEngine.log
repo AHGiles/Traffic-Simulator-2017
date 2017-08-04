@@ -1,0 +1,10 @@
+﻿  GameEngine.cpp
+e:\university\year 4\advanced programming\cwk\gameengine - 07_12_2016\gameengine\gameengine.cpp(88): warning C4244: 'initializing': conversion from 'DWORD' to 'float', possible loss of data
+e:\university\year 4\advanced programming\cwk\gameengine - 07_12_2016\gameengine\gameengine.cpp(212): warning C4244: 'initializing': conversion from 'DWORD' to 'float', possible loss of data
+e:\university\year 4\advanced programming\cwk\gameengine - 07_12_2016\gameengine\gameengine.cpp(361): warning C4018: '<': signed/unsigned mismatch
+e:\university\year 4\advanced programming\cwk\gameengine - 07_12_2016\gameengine\gameengine.cpp(363): warning C4018: '<': signed/unsigned mismatch
+e:\university\year 4\advanced programming\cwk\gameengine - 07_12_2016\gameengine\gameengine.cpp(375): warning C4018: '<': signed/unsigned mismatch
+e:\university\year 4\advanced programming\cwk\gameengine - 07_12_2016\gameengine\gameengine.cpp(377): warning C4018: '<': signed/unsigned mismatch
+e:\university\year 4\advanced programming\cwk\gameengine - 07_12_2016\gameengine\gameengine.cpp(381): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameEngine.vcxproj -> E:\UNIVERSITY\Year 4\Advanced Programming\Cwk\GameEngine - 07_12_2016\Debug\GameEngine.exe
+  GameEngine.vcxproj -> E:\UNIVERSITY\Year 4\Advanced Programming\Cwk\GameEngine - 07_12_2016\Debug\GameEngine.pdb (Partial PDB)

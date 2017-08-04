@@ -1,0 +1,46 @@
+newmtl CrossroadsTraffic:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Junction/metal.jpg
+Ni 1.00
+newmtl CrossroadsTraffic:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Junction/red.jpg
+Ni 1.00
+newmtl CrossroadsTraffic:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Junction/yellow.png
+Ni 1.00
+newmtl CrossroadsTraffic:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Junction/green.jpg
+Ni 1.00
+newmtl CrossroadsTraffic:pPlane3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Junction/crossroads_diff.tif
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 3.43
+newmtl TJunc:pPlane2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Junction/tjunc_diff.tif
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 3.43

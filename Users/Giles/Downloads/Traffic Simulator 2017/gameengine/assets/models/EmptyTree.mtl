@@ -1,0 +1,25 @@
+newmtl empty:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Empty/grass.png
+Ni 1.00
+newmtl empty:palmMatureMedium1FlowerShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Empty/leaf.png
+Ni 1.00
+Ks 0.61 0.48 0.33
+Ns 98.00
+newmtl empty:palmMatureMedium1ShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Empty/bark.png
+Ni 1.00
+Ks 0.35 0.28 0.19
+Ns 98.00
