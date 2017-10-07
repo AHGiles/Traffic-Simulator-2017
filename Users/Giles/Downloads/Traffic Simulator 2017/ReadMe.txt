@@ -26,7 +26,7 @@ GUI ray casting still needs work
 Ray casting is 'working' but innaccurate needs someone better than us to fix it
 Next is to get road pieces as dragable into scene 
 ---------------------------------------------------------------------------------------
-Ray casting is now accurate as ballz, still needs dragable road pieces from GUI
+Ray casting is now more accurate, still needs dragable road pieces from GUI
 probably start work on procedual generation of environment or stats
 ---------------------------------------------------------------------------------------
 GUI is now draggable and works fine, need to add GUI images of road pieces
